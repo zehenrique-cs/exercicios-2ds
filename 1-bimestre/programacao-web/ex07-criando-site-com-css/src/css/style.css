@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+
+}
+h1{
+    color: blueviolet;
+    border: 5px green solid;
+}
+p{
+    color: blue;
+}
