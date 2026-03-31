@@ -27,8 +27,8 @@ Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
 Prazo de Entrega 1: 04-mar (2,5 pt) | Prazo de Entrega 2: 08-mar (1,5 pt)
 - **Projeto 3 - Página de Perfil Profissional**<br>
 Prazo de Entrega 1: 25-mar (2,5 pt) | Prazo de Entrega 2: 29-mar(1,5 pt)
-- **Projeto 4 -**<br>
-Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **Projeto 4 - Sistema de Lista de Tarefas**<br>
+Prazo de Entrega 1: 30-mar (2,5 pt) | Prazo de Entrega 2: 05-abr (1,5 pt)
 
 ### Análise e Projeto de Sistemas
 - Projeto Pessoal: Modelar um pequeno sistema utilizando metodologias Ágeis, com Diagrama de Caso de Uso, Protótipo em baixa fidelidade e Elicitação de Requisitos. Deve ser entregue em folha A4 contendo capa, descrição da metodologia utilizada, uma folha contendo o diagrama do sistema, uma folha contendo o protótipo e outra folha contendo pelo menos 10 requisitos entre RF e RNF.
