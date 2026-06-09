@@ -82,4 +82,21 @@ Perguntas:
 3. O que é Virtual DOM?
 4. Qual a vantagem do Virtual DOM?
 
-Crie sua resposta abaixo:
+Crie sua resposta abaixo:  01 Questao : React é uma biblioteca JavaScript criada pela Meta para construir interfaces de usuário (UI), especialmente para aplicações web interativas.
+
+Ela permite criar a interface em pequenos blocos reutilizáveis chamados componentes. Cada componente gerencia sua própria lógica e aparência, tornando o código mais organizado e fácil de manter.
+
+02 Questao : O React é uma biblioteca, não um framework.
+
+A principal diferença é que:
+
+Biblioteca: resolve um problema específico (neste caso, a camada de interface do usuário).
+Framework: fornece uma estrutura mais completa para toda a aplicação, definindo como várias partes devem funcionar juntas.
+
+03 Questao : O Virtual DOM é uma representação em memória da árvore de elementos da interface.
+
+Em vez de alterar diretamente o DOM real do navegador toda vez que algo muda
+
+04 Questao : Melhor desempenho
+
+Manipular o DOM real é relativamente custoso. O Virtual DOM reduz o número de operações necessárias.

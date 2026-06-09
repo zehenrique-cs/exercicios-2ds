@@ -5,17 +5,17 @@ export default function App(){
     <div>
       <Filme 
         filme="matrix"
-        ano="1999"
+        ano={1999}
       />
 
       <Filme 
-        filme="Spider-man"
-        ano="2099"
+        filme="velozes e furiosos"
+        ano={2009}
       />
 
       <Filme 
-        filme="a bruxa de blair"
-        ano="2000"
+        filme="rambo"
+        ano={1989}
       />      
     </div>
   )
